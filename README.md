@@ -7,4 +7,4 @@ C++
 
 ## Screenshots
 
-![Logo](![image](https://user-images.githubusercontent.com/103963261/188284246-d38cef60-756a-4d96-947f-204ec6f50ebc.png)
+![Logo](https://algoritmosyalgomas.com/wp-content/uploads/2019/02/Screenshot_1.png)
