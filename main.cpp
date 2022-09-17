@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "lanzador.h"
+#include "Lanzador.h"
 #include <conio.h>
 
 using namespace System;
@@ -7,7 +7,7 @@ using namespace System;
 int main() {
 	//tamaño de la consola
 	Console::SetWindowSize(80, 40);
-  //eliminar cursor
+	//eliminar cursor
 	Console::CursorVisible = false;
 
 	//dibuja el lanzador
@@ -32,8 +32,8 @@ int main() {
 			}
 		}
 		//muestra
-		if (ObjetoLanzador->getNumeroPelotas() > 0) {
-			ObjetoLanzador->MostrarPelota();
+		if (ObjetoLanzador->getN() > 0) {
+			ObjetoLanzador->MostrarPelotas();
 		}
 		_sleep(100);
 	}
