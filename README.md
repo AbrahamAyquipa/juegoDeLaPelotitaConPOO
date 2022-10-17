@@ -14,7 +14,3 @@
 ## Language used
 
 C++
-
-## Screenshots
-
-![Logo](https://algoritmosyalgomas.com/wp-content/uploads/2019/02/Screenshot_1.png)
