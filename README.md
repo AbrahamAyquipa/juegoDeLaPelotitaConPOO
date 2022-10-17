@@ -1,24 +1,17 @@
 <br />
 <div align="center">
   <a href="https://github.com/AbrahamAyquipa/juegoDeLaPelotitaConPoo">
-    <img src="./logo.png" height = "120", width = "100">
+    <img src="./logo.png" height = "120", width = "110">
   </a>
 
-  <h1 align="center">Ejercicios de clase - Algoritmos</h1>
+  <h1 align="center">Juego de la pelota - Algoritmos</h1>
 
   <p align="center">
-    En el siguiente repositorio se guardaran los ejercicios hechos en clase.
+    Juego de la pelota hecho en clase de algoritmos con uso de POO
   </p>
 </div>
 
 ## Language used
-
-C++
-
-# juego de la pelotita
-Juego de la pelota hecho en clase de algoritmos con uso de POO
-
-## Lenguajes usados
 
 C++
 
