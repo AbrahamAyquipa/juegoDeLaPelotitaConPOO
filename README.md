@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/AbrahamAyquipa/juegoDeLaPelotita">
+  <a href="https://github.com/AbrahamAyquipa/juegoDeLaPelotitaConPoo">
     <img src="./logo.png" height = "120", width = "100">
   </a>
 
