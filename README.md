@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AbrahamAyquipa/juegoDeLaPelotitaConPoo">
-    <img src="./logo.png" height = "120", width = "110">
+    <img src="./logo.png" height = "120", width = "105">
   </a>
 
   <h1 align="center">Juego de la pelota - Algoritmos</h1>
